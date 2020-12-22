@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 ff
-=======
-feature
->>>>>>> parent of 20b2bbc (update new feature)
